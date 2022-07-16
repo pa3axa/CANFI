@@ -5,7 +5,7 @@
  design by DL2ALF, DL8AAU, DF9IC. Its compatible\
  with the software written by DL2ALF.
  
- This software and all other information of the
+ This software and all other information of the\
  CANFI project can be found here.
  
  ### http://www.canfi.eu/
