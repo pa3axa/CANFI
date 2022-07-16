@@ -11,7 +11,7 @@
  ### http://www.canfi.eu/
  
  The pictures are all from the first version,\
- since then I made a few changes;\
+ since then I made a few changes;
  
   LNA has now its own seprate PCB, no longer\
   part of the front panel, but fits on top.
